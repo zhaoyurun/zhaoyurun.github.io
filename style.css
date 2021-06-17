@@ -1,6 +1,6 @@
-p{
+a{
     color: black;
 }
-p:hover{
+a:hover{
     color: green;
 }

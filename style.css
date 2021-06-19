@@ -5,15 +5,17 @@ a:hover{
     color: green;
 }
 
+.HolyGrail-body {
+  display: flex;
+  flex: auto;
+}
+
 .bod{
         display:flex;
         flex-direction:column;
      }
 
-.mai{
-        display:flex;
-        flex: auto;
-     }
+
 .asid{
     flex:1;
     order:-1;

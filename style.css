@@ -11,15 +11,15 @@ body{
         flex-direction:column;
      }
 
-.main {
+main {
   display:flex;
   flex:auto;
 }
 
-.aside{
+aside{
     flex:1;
     order:-1;
 }
-.article{
+article{
     flex:3;
 }

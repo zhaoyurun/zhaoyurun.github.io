@@ -5,19 +5,19 @@ a:hover{
     color: green;
 }
 
-body{
+bod{
         display:flex;
         flex-direction:column;
      }
 
-.main{
+.mai{
         display:flex;
         flex: auto;
      }
-.aside{
+.asid{
     flex:1;
     order:-1;
 }
-.article{
+.articl{
     flex:3;
 }

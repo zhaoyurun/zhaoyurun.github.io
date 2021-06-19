@@ -10,9 +10,10 @@ a:hover{
         display:flex;
         flex-direction:column;
      }
+
 .main {
-  display: flex;
-  flex: auto;
+  display:flex;
+  flex:auto;
 }
 
 .aside{

@@ -15,9 +15,9 @@ body{
         flex: auto;
      }
 .aside{
-    flex:1
-    order:-1
+    flex:1;
+    order:-1;
 }
 .article{
-    flex:3
+    flex:3;
 }

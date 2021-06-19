@@ -16,6 +16,7 @@ body{
      }
 .aside{
     flex:1
+    order:-1
 }
 .article{
     flex:3

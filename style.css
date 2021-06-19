@@ -9,9 +9,6 @@ body{
         display:flex;
         flex-direction:column;
      }
-header,footer{
-       flex:0 0 50px; 
-}
 
 .main{
         display:flex;

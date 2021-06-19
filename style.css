@@ -11,3 +11,7 @@ body{
         flex-direction:column;
      }
 
+#main {
+  display:flex;
+  flex:auto;
+}

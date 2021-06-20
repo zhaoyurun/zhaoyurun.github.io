@@ -18,7 +18,7 @@ main {
 
 aside{
     flex:1;
-    background: green;
+    background: pink;
     float: left;
 }
 article{

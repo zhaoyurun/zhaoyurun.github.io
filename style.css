@@ -18,6 +18,8 @@ main {
 
 aside{
     flex:1;
+    background: pink;
+    float: left;
 }
 article{
     flex:3;

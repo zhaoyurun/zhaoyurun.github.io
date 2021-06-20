@@ -21,9 +21,8 @@ aside{
 }
 article{
     flex:3;
-    border: 1px solid red;
+    border: 1px solid blue;
     margin: 0 auto;
     text-align: center;
-    background: orange;
 }
 
